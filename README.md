@@ -48,6 +48,8 @@ pc端用开发者工具可以看到粉丝链接为：`https://weibo.com/ajax/fri
 
 ### 2.information
 
+`python login.py`
+
 这里根据想要爬取的博主uid修改代码里面uid即可
 
 **PS:** 这里设置了一个id.txt筛选已经爬取的用户，主要有3点考虑：
