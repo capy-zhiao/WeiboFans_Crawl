@@ -4,8 +4,8 @@
 * [Setup](#setup)
    * [Working configuration](#working-configuration)
 * [Steps](#steps)
-   * [1.获取cookie.json](#1.获取cookie.json)
-   * [2.爬取粉丝信息](#2.爬取粉丝信息)
+   * [1.cookie.json](#1.cookie.json)
+   * [2.information](#2.information)
 
 ## Introduction
 
@@ -38,7 +38,7 @@ pc端用开发者工具可以看到粉丝链接为：`https://weibo.com/ajax/fri
 
 ## Steps
 
-### 1.获取cookie.json
+### 1.cookie.json
 
 `python pre.py`预登录微博，获取cookie.json，注意这里需要自己点击一下登录然后扫码登录（Xpath一直匹配不上，放弃），我设置的是20s等待时长。
 
@@ -46,7 +46,7 @@ pc端用开发者工具可以看到粉丝链接为：`https://weibo.com/ajax/fri
 
 ![1](images/1.png)
 
-### 2.爬取粉丝信息
+### 2.information
 
 这里根据想要爬取的博主uid修改代码里面uid即可
 
