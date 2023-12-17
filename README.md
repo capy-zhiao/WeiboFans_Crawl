@@ -1,2 +1,2 @@
 # WeiboFans_Crawl
-爬取weibo博主粉丝
+本来想通过爬取已知Crush关注的博主id获取ip地址为xxx的对方微博id，但是发现微博限制只能爬取最近2000个粉丝0v0...
