@@ -4,8 +4,8 @@
 * [Setup](#setup)
    * [Working configuration](#working-configuration)
 * [Steps](#steps)
-   * [1.cookie.json](#1.cookie.json)
-   * [2.information](#2.information)
+   * [1.cookie.json](#1cookiejson)
+   * [2.information](#2information)
 
 ## Introduction
 
