@@ -1,6 +1,6 @@
 # WeiboFans_Crawl
-* [introduction](#introduction)
-* [thoughts](#thoughts)
+* [Introduction](#introduction)
+* [Thoughts](#thoughts)
 * [Setup](#setup)
    * [Working configuration](#working-configuration)
 * [Steps](#steps)
